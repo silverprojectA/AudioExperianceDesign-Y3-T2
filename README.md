@@ -14,4 +14,4 @@ A KEF 3000 coaxial speaker in a custom sealed enclosure delivers the sound. The 
 
 See Anna_SonicSketch.pdf for full report 
 
-/ReportAssets/finishedPic.jpeg
+![Finished Pic!](/ReportAssets/finishedPic.jpeg)
